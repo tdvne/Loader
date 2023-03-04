@@ -1,0 +1,5 @@
+main: me.tdvne.loader.Loader
+name: Loader
+author: [ tdvne ]
+version: 1.0
+description: Simple plugin loader
