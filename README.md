@@ -1,10 +1,10 @@
 # Loader
-A simple bukkit/spigot plugin loader to download from URL links|
+A simple bukkit/spigot plugin loader to download from URL links.
 
 # FAQ
 Q: What is this source code?
 
-A: This source-code is a base for people who want to expand on it and are interested in creating loaders for to secure their plugins.
+A: This source-code is a base for people who want to expand on it and are interested in creating loaders to secure their plugins.
 
 Q: Why did you create this?
 
